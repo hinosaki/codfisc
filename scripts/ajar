@@ -1,0 +1,3 @@
+#!/bin/sh
+rm codfisc.jar
+jar cvfm codfisc.jar Manifest.txt hsqldb.jar *.class db/*

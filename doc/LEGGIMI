@@ -1,0 +1,10 @@
+Il programma è stato testato con versioni di Java 1.4.2.x.
+"Dovrebbe" funzionare anche con versioni 1.3.x e 1.5.x.
+L'interrogazione delle città si appoggia ad un database locale HSQL.
+Il programma può essere lanciato con il seguente comando:
+
+java codfisc [nome] [cognome] [data di nascita gg/mm/aaaa] [città] [prov] [sesso M/F]
+
+per informazioni sulla sintassi:
+
+java codfisc
