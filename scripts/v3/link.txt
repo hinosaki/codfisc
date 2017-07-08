@@ -1,0 +1,2 @@
+dati dei comuni ricevuti come opendata da:
+http://ckan.ancitel.it/dataset/comuni-italiani-dati-territoriali-e-demografici
