@@ -1,6 +1,6 @@
 /**
  * 
- * Copyright (C) 2006-2011 - Riccardo Mattiuzzo
+ * Copyright (C) 2006-2017 - Riccardo Mattiuzzo
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -18,6 +18,8 @@
  */
 
 
+// https://blogs.oracle.com/geertjan/validating-a-form-in-the-netbeans-platform
+
 package codfisc2;
 
 import java.awt.Color;
@@ -28,8 +30,8 @@ import java.awt.Dimension;
 import java.awt.Toolkit;
 
 import javax.swing.JPanel;
-import org.netbeans.validation.api.ui.*;
-import org.netbeans.validation.api.builtin.*;
+import org.netbeans.validation.api.ui.ValidationGroup;
+import org.netbeans.validation.api.ui.swing.ValidationPanel;
 
 
 

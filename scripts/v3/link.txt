@@ -1,2 +1,5 @@
 dati dei comuni ricevuti come opendata da:
 http://ckan.ancitel.it/dataset/comuni-italiani-dati-territoriali-e-demografici
+
+dati catastali:
+http://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Home/Servizi+online/serv_terr/senza_reg/Consultazione+Archivio+Comuni+Stati+esteri/
